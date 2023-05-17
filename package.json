@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "pengrape": "^1.3.3"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.33.0"
+  },
+  "scripts": {}
+}

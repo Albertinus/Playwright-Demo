@@ -1,0 +1,15 @@
+{
+  "cookies": [
+    {
+      "name": "connect.sid",
+      "value": "s%3ACJGNTNPEO8WCFEUprwCUwep5Ng21kr_X.2rASTzHkE5DSHWQakn6NrVoYxWNhWLVqzHGZNbtpSjk",
+      "domain": ".knack.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": []
+}
